@@ -6,7 +6,7 @@ Cognitive Maps (FCMs) and Dynamic Fuzzy Cognitive Maps (DFCMs).
 ## Download
 
 - [FCMDesigner.exe](dist/FCMDesigner.exe) — Windows executable
-- [User Guide](docs/user_guide.pdf) — Installation and usage instructions
+- [User Guide](docs/Guide_Use.pdf) — Installation and usage instructions
 
 ## Getting Started
 
